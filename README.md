@@ -50,6 +50,8 @@ Locate the JSON credentials file in the "credentials" directory, and download it
 Create a new local ".env" file and set the following environment variable (`GOOGLE_APPLICATION_CREDENTIALS`):
 
 ```sh
+# this is the ".env" file..
+
 GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/disinfo-research-group-template/google-credentials.json"
 ```
 
