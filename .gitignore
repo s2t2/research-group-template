@@ -1,3 +1,9 @@
+
+google-credentials.json
+*credentials*.json
+tweet-research-shared*.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
